@@ -2,6 +2,10 @@
 This repository contains material for the exercise where real data from CMS experiment at CERN is used
 for a simple particle physics data-analysis. There are two easy ways to get the exercise working:
 
+### monty.stfc.ac.uk Users
+If you are reading this after having logged onto https://monty.stfc.ac.uk just click on Exercise.ipynb to start the computer exercise and read no further
+
+
 ### 1) Opening the exercise with Binder
 
 With Binder it is easy to make Jupyter Notebook files interactive in the browser without any installing. Just open the badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olaiya/zboson-exercise/mClassv5?filepath=Exercise.ipynb)  in the new browser tab to create the Binder environment. When Binder has finished building the interactive environment, it will automatically show the contents of the repository. The
