@@ -54,5 +54,3 @@ This page provides various levels for introducing you to python
 
 ## Contributing
 Development ideas, feature requests, bug reports and further exercises are warmly encouraged and welcome! <br>
-
-To contribute, see our [Contributing guide](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/Contributing.rst).
