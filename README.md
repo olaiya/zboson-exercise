@@ -16,8 +16,7 @@ into the field "GitHub repository name or URL". After that click the "launch" bu
 
 Note that the Binder environment is just temporary and will be deleted after you choose to close the exercise.
 
-### 2) Opening the exercise with Google Colab (need a Google account) <a target="_blank" href="https://colab.research.google.com/github/olaiya/zboson-exercise/blob/colab/Exercise.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+### 2) Opening the exercise with Google Colab (need a Google account) 
 </a>
 
 Using Google Colab you will need a Google account. However, there are some big benefits with this option. Your work is stored (on your Google Drive), so you can return to where you left off at another time. You also have access to more powerful GPU and CPU resources. This would be a good place to set up your own projects for analysing data! Click here: <a target="_blank" href="https://colab.research.google.com/github/olaiya/zboson-exercise/blob/colab/Exercise.ipynb">
