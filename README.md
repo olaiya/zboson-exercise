@@ -37,6 +37,13 @@ the repository. Note that all files of the repository have to be in the same dir
   
 This material is made available under a CC-BY licence <https://creativecommons.org/licenses/by/4.0/>.
 
+## Further reading
+These notebooks use the programming language python. We provide an extremely basic introduction to python at the start of the notebook. If you want to learn more about python, please consider looking at this page <br>
+https://github.com/stfcoz/PythonIntroduction
+<br>
+This page provides various levels for introducing you to python
+
 ## Contributing
 Development ideas, feature requests, bug reports and further exercises are warmly encouraged and welcome! <br>
+
 To contribute, see our [Contributing guide](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/Contributing.rst).
