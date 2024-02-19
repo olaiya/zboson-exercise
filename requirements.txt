@@ -1,4 +1,5 @@
 pandas
+pyarrow
 matplotlib
 numpy
 scipy
