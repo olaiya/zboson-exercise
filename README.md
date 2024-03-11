@@ -1,9 +1,9 @@
 # Particle physics data-analysis with CMS open data
 This repository contains material for the exercise where real data from CMS experiment at CERN is used
-for a simple particle physics data-analysis. There are two easy ways to get the exercise working:
+for a simple particle physics data-analysis. There are a few easy ways to get the exercise working:
 
 ### monty.stfc.ac.uk Users
-If you are reading this after having logged onto https://monty.stfc.ac.uk just click on Exercise.ipynb to start the computer exercise and read no further
+If you are reading this after having logged onto https://monty.stfc.ac.uk (you need to have been given an account) just click on Exercise.ipynb to start the computer exercise and read no further
 
 
 ### 1) Opening the exercise with Binder
